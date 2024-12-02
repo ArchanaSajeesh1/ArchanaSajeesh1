@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Archana Sajeesh
+- 👋 Hi, I’m Archana R
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m proficient in Power BI, Excel & SQL
 - 📫 How to reach me : archanasaju2290@gmail.com
